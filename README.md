@@ -10,7 +10,7 @@
 ![Alt text](src/assets/git_reference/big_screen/main_look.png)
 ## platform searching
 ![Alt text](src/assets/git_reference/big_screen/platform_searching.png)
-## skeliton_loading
+## loading screen
 ![Alt text](src/assets/git_reference/big_screen/skeliton_loading.png)
 
 # Responsive Design
